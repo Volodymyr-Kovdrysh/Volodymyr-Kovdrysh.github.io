@@ -13,11 +13,13 @@ description: Наукові статті, конференційні матер�
 
 [Профіль автора у Scopus](https://www.scopus.com/authid/detail.uri?authorId=60249194500) (Author ID: **60249194500**) · [ORCID](https://orcid.org/0009-0006-6812-8412)
 
-У профілі Scopus наведено **3 документи** (за даними авторського профілю на 16 листопада 2026 року). Нижче подано записи, для яких встановлено повні вихідні дані. Третій запис буде додано після зіставлення з авторським переліком Scopus.
+Авторський профіль [Scopus](https://www.scopus.com/authid/detail.uri?authorId=60249194500) та пов'язані з ним записи [ORCID](https://orcid.org/0009-0006-6812-8412) підтверджують **три публікації 2025 року**. Наведено їхні назви, співавторів і DOI.
 
 1. **Horbatiuk R., Bilan N., Volkova N., Ivanchuk M., Kovdrysh V.** European integration as a determinant of digital transformation of physical and mathematical scientific and educational processes of higher education institutions of Ukraine // *Proceedings of SPIE*. — **2025**. — Vol. 13813. — Article 1381324. [DOI: 10.1117/12.3092505](https://doi.org/10.1117/12.3092505). [Запис у Scopus](https://www.scopus.com/pages/publications/105025448382).
 
 2. **Derevyanchuk O. V., Ridei N. M., Tytova N. M., Yatsko O. M., Ivanchuk M. G., Kovdrysh V. V., Kravchenko H. O.** 3D modeling as a means of forming professional competencies of future optical engineers and vocational education teachers // *Proceedings of SPIE*. — **2025**. — Vol. 13813. — Article 138132F. [DOI: 10.1117/12.3092601](https://doi.org/10.1117/12.3092601).
+
+3. **Lavrentieva O. O., Sliusarenko M. A., Tarasov V. A., Tyutyunov O. V., Kovdrysh V. V.** Technological education in the field of transport: Responding to the challenges of eco-modernisation // *Proceedings of SPIE*. — **2025**. — Vol. 13813. [DOI: 10.1117/12.3089087](https://doi.org/10.1117/12.3089087). Scopus EID: `2-s2.0-105025432810`.
 
 ## Наукові статті
 
