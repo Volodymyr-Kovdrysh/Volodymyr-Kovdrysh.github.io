@@ -14,10 +14,10 @@ latest_posts:
 
 <figure style="float: right; width: min(32%, 245px); min-width: 145px; margin: 0 0 1.25rem 1.5rem;">
   <img
-    src="https://media.chnu.edu.ua/media/waufbvqy/kovdrysh-volodymyr-volodymyrovych.jpg?width=390&amp;height=390&amp;format=webp&amp;quality=80&amp;hmac=e0b9d8deb29ded3201449c64722339404e4a27c538d6e06961465f9c70055bf7"
-    alt="Володимир Ковдриш — портрет з офіційного сайту ЧНУ"
-    width="390"
-    height="390"
+    src="{{ '/assets/img/portrait-approved.webp' | relative_url }}"
+    alt="Володимир Ковдриш — затверджений професійний портрет"
+    width="320"
+    height="320"
     loading="eager"
     decoding="async"
     style="display: block; width: 100%; height: auto; border-radius: 0.5rem;"
