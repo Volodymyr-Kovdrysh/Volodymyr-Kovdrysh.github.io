@@ -9,6 +9,16 @@ description: Наукові статті, конференційні матер�
 
 Нижче наведено бібліографічні записи наукових і навчальних праць. Публікації **2005–2009 років**, пов'язані з темою дисертації, відтворено за її списком використаних джерел (позиції 11–17, 42). Інші записи додано за бібліотечними каталогами та сторінками університетів. Цей перелік доповнюватиметься після подальшої бібліографічної звірки.
 
+## Публікації у виданнях, індексованих Scopus (2025)
+
+[Профіль автора у Scopus](https://www.scopus.com/authid/detail.uri?authorId=60249194500) (Author ID: **60249194500**) · [ORCID](https://orcid.org/0009-0006-6812-8412)
+
+У профілі Scopus наведено **3 документи** (за даними авторського профілю на 16 листопада 2026 року). Нижче подано записи, для яких встановлено повні вихідні дані. Третій запис буде додано після зіставлення з авторським переліком Scopus.
+
+1. **Horbatiuk R., Bilan N., Volkova N., Ivanchuk M., Kovdrysh V.** European integration as a determinant of digital transformation of physical and mathematical scientific and educational processes of higher education institutions of Ukraine // *Proceedings of SPIE*. — **2025**. — Vol. 13813. — Article 1381324. [DOI: 10.1117/12.3092505](https://doi.org/10.1117/12.3092505). [Запис у Scopus](https://www.scopus.com/pages/publications/105025448382).
+
+2. **Derevyanchuk O. V., Ridei N. M., Tytova N. M., Yatsko O. M., Ivanchuk M. G., Kovdrysh V. V., Kravchenko H. O.** 3D modeling as a means of forming professional competencies of future optical engineers and vocational education teachers // *Proceedings of SPIE*. — **2025**. — Vol. 13813. — Article 138132F. [DOI: 10.1117/12.3092601](https://doi.org/10.1117/12.3092601).
+
 ## Наукові статті
 
 1. **Ковдриш В. В., Сумарюк М. І.** Визначні точки у сім'ї автомедіанних трикутників // *У світі математики*. — **2013**. — Т. 19, вип. 2. — С. 23–31. [Бібліотечний каталог](https://irbis.cusu.edu.ua/cgi-bin/irbis64r_11/cgiirbis_64.exe?C21COM=S&I21DBN=BD3_PRINT&LNG=&P21DBN=BD3&S21CNR=500&S21FMT=FULLW_print&S21LOG=1&S21P01=0&S21P02=0&S21P03=K%3D&S21REF=&S21STN=1&S21STR=%D1%80%D0%BE%D0%B7%D0%B3%D0%BE%D1%80%D1%82%D0%BA%D0%B0&Z21ID=).
