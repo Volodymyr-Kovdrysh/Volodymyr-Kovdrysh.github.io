@@ -15,7 +15,7 @@ latest_posts:
 <figure style="float: right; width: min(32%, 245px); min-width: 145px; margin: 0 0 1.25rem 1.5rem;">
   <img
     src="{{ '/assets/img/portrait-approved.webp' | relative_url }}"
-    alt="Володимир Ковдриш — затверджений професійний портрет"
+    alt="Володимир Ковдриш — портрет"
     width="320"
     height="320"
     loading="eager"
