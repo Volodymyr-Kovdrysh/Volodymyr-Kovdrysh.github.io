@@ -51,7 +51,7 @@ description: Наукові статті, конференційні матер�
 
 4. **Ковдриш В. В.** Вербальні підгрупи груп фінітарних унітрикутних матриць над комутативними кільцями з одиницею // *Міжнародна наукова конференція, присвячена 50-річчю кафедри алгебри і математичної логіки*. — **2009**. — С. 45–46.
 
-5. **Kovdrysh V.** The width of verbal subgroups of unitriangular matrices groups over ring of Z/mZ // *7th International Algebraic Conference in Ukraine*: abstracts (18–23 August 2009). — **2009**. — С. 78 . [Збірник тез](https://ksp.cnu.edu.ua/wp-content/uploads/sites/188/2024/02/abstractbook.pdf).
+5. **Kovdrysh V.** The width of verbal subgroups of unitriangular matrices groups over ring of Z/mZ // *7th International Algebraic Conference in Ukraine*: abstracts (18–23 August 2009). — **2009**. — С. 78. [Збірник тез](https://ksp.cnu.edu.ua/wp-content/uploads/sites/188/2024/02/abstractbook.pdf).
 
 6. **Ковдриш В. В.** Алгоритм добування коренів з елементів групи `UT_n(Z)` // *Дванадцята міжнародна наукова конференція імені академіка М. Кравчука*. — **2008**. — С. 654.
 
